@@ -46,4 +46,4 @@ Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/silvi
 Desenvolvedor: Silvio Martins<br>
 Linkedin: [Entrar em contato!](https://www.linkedin.com/in/silvio-martins-511956230/)<br>
 Contato: WhastApp Comercial: +55 (69) 9.8417-6030 <br>
-Email: tiosambatera@hotmail.com <br>
+Email: silviomartins.dev@hotmail.com <br>
