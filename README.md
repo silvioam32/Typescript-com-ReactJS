@@ -12,6 +12,14 @@
   <a href="#memo-license">Licença</a>
 </p>
 
+<h1 align="center">
+    A companhe as telas desenvolvidas a seguir.
+</h1>
+
+<h3 align="left">
+  Typescript, React-JS.
+</h3>
+<a href="https://imgur.com/ONwOHKB"><img src="https://i.imgur.com/ONwOHKB.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
 
